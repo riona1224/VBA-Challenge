@@ -12,6 +12,7 @@ The percentage change from the opening price at the beginning of a given year to
 The total stock volume of the stock.**
 
 References 
+
 followed this to help with my for loops (for each)  https://excelchamps.com/vba/loop-sheets/
 
 Used this to fix any incorrections in my loops https://www.automateexcel.com/vba-code-indenter/
