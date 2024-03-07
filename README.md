@@ -28,3 +28,5 @@ Xpert Learning Assistant for the yearlychanges calculations and fixing condition
 followed this to help with my for loops (to loop throughout worksheets)  https://excelchamps.com/vba/loop-sheets/
 
 followed this similar syntax and applied it to my conditional formatting for yearly change coloumn https://learn.microsoft.com/en-us/office/vba/api/excel.interior.color
+
+
