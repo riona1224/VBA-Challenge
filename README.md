@@ -29,4 +29,6 @@ followed this to help with my for loops (to loop throughout worksheets)  https:/
 
 followed this similar syntax and applied it to my conditional formatting for yearly change coloumn https://learn.microsoft.com/en-us/office/vba/api/excel.interior.color
 
+i wanted to autofit my coloumns so i followed this sytax https://learn.microsoft.com/en-us/office/vba/api/excel.range.autofit
+
 
