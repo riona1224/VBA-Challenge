@@ -23,8 +23,6 @@ repo contains
 
 
 References i used: 
-Xpert Learning Assistant for the yearlychanges calculations and conditional formatting within vba
+Xpert Learning Assistant for the yearlychanges calculations and conditional formatting within vba, as well as guide me with any errors in my code 
 
 followed this to help with my for loops (for each)  https://excelchamps.com/vba/loop-sheets/
-
-Used this to fix any incorrections in my loops https://www.automateexcel.com/vba-code-indenter/
