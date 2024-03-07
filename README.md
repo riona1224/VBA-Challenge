@@ -15,6 +15,7 @@ The total stock volume of the stock.
 
 as well as some conditional formatting for the yearly and percentchange coloumns
 
+*i did not do the bonus section
 
 repo contains 
 
