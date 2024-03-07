@@ -1,20 +1,30 @@
 # VBA-Challenge
 Module 2 Challenge. 
 
-instructions was to create loops 
+Instructions for this module was to 
 
-**to The ticker symbol
+Create a script that loops through all the stocks for one year and outputs the following information:
+
+The ticker symbol
 
 Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
 The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
-The total stock volume of the stock.**
+The total stock volume of the stock.
 
-References 
+as well as some conditional formatting
+
+
+repo contains 
+
+- screenshots of results from 2018,2019,2020
+- VBA file 
+
+
+References i used: 
+Xpert Learning Assistant for the yearlychanges calculations and conditional formatting within vba
 
 followed this to help with my for loops (for each)  https://excelchamps.com/vba/loop-sheets/
 
 Used this to fix any incorrections in my loops https://www.automateexcel.com/vba-code-indenter/
-
-* Screenshots included in folder are results from 2018,2019,2020 
