@@ -13,7 +13,7 @@ The percentage change from the opening price at the beginning of a given year to
 
 The total stock volume of the stock.
 
-as well as some conditional formatting
+as well as some conditional formatting for the yearly and percentchange coloumns
 
 
 repo contains 
