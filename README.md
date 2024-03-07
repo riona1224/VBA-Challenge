@@ -18,8 +18,8 @@ as well as some conditional formatting for the yearly and percentchange coloumns
 *i did not do the bonus section
 
 repo contains 
-- screenshots of results from 2018,2019,2020
-- VBA file 
+- folder that contains screenshots of the results from 2018,2019,2020
+- VBA script
 
 
 References i used: 
